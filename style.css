@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.uk-flex div {
+    width: 90%;
+}
+.uk-card-footer .uk-icon{
+    margin-left: 10px;
+}
+.uk-card-footer .mysorka{
+    margin-left: 150px;
+}
+.uk-width-auto h5{
+    margin-left: 250px;
+}
